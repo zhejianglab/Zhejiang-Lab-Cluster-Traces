@@ -13,7 +13,7 @@
  author = {Zhejiang Lab},
  title = {Zhejiang Lab LLM Trace Program},
  year = {2024},
- howpublished = {\url{实际项目链接}},
+ howpublished = {\url{https://github.com/zhejianglab/Zhejiang-Lab-Cluster-Traces}},
  note = {Accessed: 2024-06-20}
 }
 ```
