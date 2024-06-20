@@ -5,7 +5,7 @@ The *Zhejiang Lab LLM Trace Program*, published by Zhejiang Lab, offers large la
 
 The program will progressively release LLM training logs and traffic information from multiple large-scale clusters. Currently, the following traces have been made accessible:
 
-- `cluster_2000_A100` includes LLM tasks' training logs and cluster network traffic data.The cluster consists of 2000 A100 GPUs and a lossless Ethernet with a Spine-Leaf architecture with a bandwidth of 200Gbps. To see more about this trace, see related documents ([cluster_2000_A100](./cluster_2000_A100/cluster_2000_A100.md)).  Download link is available after a short survey ([survey link](https://forms.gle/2K66hHB4ZovQ5Cjn7)).
+- `cluster_2000_A100` includes LLM tasks' training logs and cluster network traffic data.The cluster consists of 2000 A100 GPUs and a lossless Ethernet with a Spine-Leaf architecture with a bandwidth of 200Gbps. To access more information about this trace, please refer to the related documents ([cluster_2000_A100](./cluster_2000_A100/cluster_2000_A100.md)).  Download link is available after a short survey ([survey link](https://forms.gle/2K66hHB4ZovQ5Cjn7)).
 
 
 We encourage everyone to use the logs and traces for study or research purposes. If you have any questions while using the trace data, please feel free to contact us via email at [Zhejiang Lab](mailto:zhejianglab-clustertrace@zhejianglab.com) or [Tongyu](mailto:tongyusong@zhejianglab.com)  (Tongyu is responsible for maintaining this repository and is affiliated with Zhejiang Lab's research center for high-efficiency computing systems). Alternatively, you can submit an issue on GitHub. Submitting an issue is recommended as it benefits the entire community through open discussion.
