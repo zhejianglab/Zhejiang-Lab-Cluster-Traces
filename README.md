@@ -31,7 +31,7 @@ We kindly request that you inform us when any publications utilizing our trace d
 ## License
 
 ![Creative Commons CC-BY license](https://i.creativecommons.org/l/by/4.0/88x31.png)
-The data and trace documentation are made available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Downloading and using the data from this repository implies your agreement to our [Terms of Access](./Terms%20of%20Access%20使用条款.pdf).
+The data and trace documentation are made available under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Downloading and using the data from this repository implies your agreement to our [Terms of Access](<a href="Terms of Access.md">).
 
 
 ## Contact us
