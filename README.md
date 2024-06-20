@@ -1,7 +1,7 @@
 # Zhejiang Lab LLM Trace Program
 
 <p align="left">
-    <a href="README-CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp ｜ 
+   ｜ <a href="README-CN.md">中文</a>&nbsp ｜ &nbspEnglish&nbsp ｜ 
 </p>
 
 
