@@ -10,7 +10,9 @@ The program will progressively release LLM training logs and traffic information
 
 We encourage everyone to use the logs and traces for study or research purposes. If you have any questions while using the trace data, please feel free to contact us via email at [Zhejiang Lab](mailto:zhejianglab-clustertrace@zhejianglab.com) or [Tongyu](mailto:tongyusong@zhejianglab.com)  (Tongyu is responsible for maintaining this repository and is affiliated with Zhejiang Lab's research center for high-efficiency computing systems). Alternatively, you can submit an issue on GitHub. Submitting an issue is recommended as it benefits the entire community through open discussion.
 
-If you use this traces in your research, please cite it as follows:
+
+## Acknowledgements
+If you use this dataset in your research, please cite it as follows:
 ```latex
 @misc{ZJ2024traces,
  author = {Zhejiang Lab},
