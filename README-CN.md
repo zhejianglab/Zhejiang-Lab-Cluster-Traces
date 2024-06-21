@@ -22,7 +22,7 @@
 
 ## 许可证 
 
-![Creative Commons CC-BY license](https://i.creativecommons.org/l/by/4.0/88x31.png) 本仓库的数据在[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)许可下提供。从该仓库下载并使用数据意味着您同意我们的[使用条款](./Terms%20of%20Access%20使用条款.pdf)。
+![Creative Commons CC-BY license](https://i.creativecommons.org/l/by/4.0/88x31.png) 本仓库的数据在[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)许可下提供。从该仓库下载并使用数据意味着您同意我们的[使用条款](./Terms%20of%20Access-CN.txt)。
 
 ## 联系我们
 如果您在使用数据时有任何问题，请通过电子邮件与我们联系，邮箱地址为[Zhejiang Lab](mailto:zhejianglab-clustertrace@zhejianglab.com) 或 [Tongyu](mailto:tongyusong@zhejianglab.com)（Tongyu 为之江实验室高效能计算系统研究中心工作人员，负责维护此存储库）。
