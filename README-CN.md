@@ -26,3 +26,5 @@
 
 ## 联系我们
 如果您在使用数据时有任何问题，请通过电子邮件与我们联系，邮箱地址为[Zhejiang Lab](mailto:zhejianglab-clustertrace@zhejianglab.com) 或 [Tongyu](mailto:tongyusong@zhejianglab.com)（Tongyu 为之江实验室高效能计算系统研究中心工作人员，负责维护此存储库）。
+
+© 2024 之江实验室高效能计算系统研究中心
