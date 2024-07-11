@@ -36,3 +36,5 @@ The data and trace documentation are made available under the [CC-BY 4.0](https:
 
 ## Contact us
 If you have any questions while using the datasets, please feel free to contact us via email at [Zhejiang Lab](mailto:zhejianglab-clustertrace@zhejianglab.com) or [Tongyu](mailto:tongyusong@zhejianglab.com)  (Tongyu is responsible for maintaining this repository and is affiliated with Zhejiang Lab's research center for high-efficiency computing systems). 
+
+© 2024 Research Center for High Efficiency Computing System of Zhejiang Lab
